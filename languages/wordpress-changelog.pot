@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-21 13:46+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: classes/class.view-changelog.php:111
+msgid "Search changes"
+msgstr ""
+
+#: classes/class.view-changelog.php:112
+msgid "Show All Types"
+msgstr ""
+
+#: classes/class.view-changelog.php:113
+msgid "Show All Actions"
+msgstr ""
+
+#: classes/class.view-changelog.php:114
+msgid "ID"
+msgstr ""
+
+#: classes/class.view-changelog.php:115
+msgid "Date"
+msgstr ""
+
+#: classes/class.view-changelog.php:116
+msgid "Action"
+msgstr ""
+
+#: classes/class.view-changelog.php:117
+msgid "Name"
+msgstr ""
+
+#: classes/class.view-changelog.php:118
+msgid "Ver."
+msgstr ""
+
+#: classes/class.view-changelog.php:119
+msgid "Type"
+msgstr ""
